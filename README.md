@@ -3,7 +3,7 @@
 ## Requirements
 
 1. Maven 3.5 or higher
-2. Java 1.8
+2. Java 8
 
 The above must be installed and available in the classpath
 
